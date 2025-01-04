@@ -21,21 +21,6 @@ This project is a simple voice assistant created using Python. It utilizes libra
 - `wikipedia`
 - `pyjokes`
 
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/voice-assistant.git
-    cd voice-assistant
-    ```
-2. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the voice assistant:
-    ```bash
-    python voice_assistant.py
-    ```
 
 ## Usage
 
@@ -46,13 +31,5 @@ After starting the voice assistant, you can use the following commands:
 - "Play [song] on YouTube."
 - "Tell me a joke."
 
-## Contributing
 
-Feel free to contribute to this project by opening an issue or submitting a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
----
 
